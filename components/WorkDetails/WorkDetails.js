@@ -141,11 +141,12 @@ const WorkDetails = props => {
 
 const styles = StyleSheet.create({
     container: {
-        // flexDirection: "column",
-        // backgroundColor: "#F4F4F4",
-        // marginVertical: 20,
-        // paddingHorizontal: 15,
-        // height: "100%"
+        flexDirection: "column",
+        backgroundColor: "#F4F4F4",
+        marginTop: 20,
+        marginBottom: 60,
+        paddingHorizontal: 15,
+        height: "100%"
     },
     mainTitle: {
         fontSize: 20,

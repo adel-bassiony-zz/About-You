@@ -125,7 +125,8 @@ const styles = StyleSheet.create({
     container: {
         flexDirection: "column",
         backgroundColor: "#F4F4F4",
-        marginVertical: 20,
+        marginTop: 20,
+        marginBottom: 60,
         paddingHorizontal: 15,
         height: "100%"
     },
